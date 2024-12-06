@@ -1,2 +1,3 @@
 Readme.doc
-this is Readme
+add documentation
+doing merging concepts
